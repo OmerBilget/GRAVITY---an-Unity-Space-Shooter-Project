@@ -15,5 +15,17 @@ college project demo
 
 ### Screenshots
 ![](screenshots/s1.png)
-
+![](screenshots/s2.png)
+![](screenshots/s3.png)
+![](screenshots/s4.png)
+![](screenshots/s5.png)
+![](screenshots/s6.png)
+![](screenshots/s7.png)
+![](screenshots/s8.png)
+![](screenshots/s9.png)
+![](screenshots/s10.png)
+![](screenshots/s11.png)
+![](screenshots/s12.png)
+![](screenshots/s13.png)
+![](screenshots/s14.png)
 
