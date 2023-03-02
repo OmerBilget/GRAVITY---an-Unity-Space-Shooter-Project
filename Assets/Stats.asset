@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e991a59e808a8b64db86ab8dfefd36d1, type: 3}
+  m_Name: Stats
+  m_EditorClassIdentifier: 
+  playerMaxHealth: 100
+  playerMaxShield: 100
+  playerShieldRegenRate: 6.04
+  playerDamageTimer: 0.1
+  PlayerBulletDamage: 5
+  PlayerBulletLife: 942
+  PlayerBulletCooldown: 0.18
+  "PlayerBulletIn\u0131tialSpeed": 10.54
+  PlayerMaxBulletSpeed: 26.96
+  PlayerMaxBulletSpread: 6.5
+  PlayerBulletAcceleration: 0.0006
+  PlayerMineDamage: 100
+  mineCount: 7
+  maxMineCount: 30
+  mineSpreadAngle: 20
+  mineInitialVelocity: 37.6
+  mineDeploySpeed: 5.18
+  mineExplodeRadius: 4
+  mineCoolDown: 8
+  mineRegenTimer: 5
+  mineFriction: 1.65
+  mineLife: 300
+  mineExplosionDelayTime: 3
+  flockGunner:
+    maxHealth: 100
+    CoolDown: 16.49
+    damage: 2.23
+    attackRadius: 7
+    approachRadius: 5
+    malfunctionMax: 0.1
+    flockingPower: 1
+    driveSpeed: 67
+    flockTimer: 2
+    evasionPower: 2.78
+    steeringPower: 57.5
+    Nrange: 1.5
+    mass: 0.1
+    planetUpdateTimer: 2
+    weights: 010000000a00000001000000
+    smoothTimer: 0.2
+    smoothAmount: 20
+    maxSpeed: 8.56
+    defaultRotateSpeed: 0.3
+  flockGunnerbulletSpeed: 0.17
+  flockGunnerBulletLife: 700
+  flockGunnerBulletSpread: 10
+  flockSniper:
+    maxHealth: 100
+    CoolDown: 200
+    damage: 0.01
+    attackRadius: 12
+    approachRadius: 8
+    malfunctionMax: 0.1
+    flockingPower: 1
+    driveSpeed: 67.7
+    flockTimer: 2
+    evasionPower: 2.59
+    steeringPower: 56.5
+    Nrange: 1.5
+    mass: 0.1
+    planetUpdateTimer: 2
+    weights: 010000000a00000001000000
+    smoothTimer: 0.2
+    smoothAmount: 20
+    maxSpeed: 8.15
+    defaultRotateSpeed: 0.7
+  laserFireTime: 120
+  laserRotateSpeed: 0.1
+  laserLength: 50
+  maxAttackAngle: 20
+  flockRocket:
+    maxHealth: 100
+    CoolDown: 822.88
+    damage: 20
+    attackRadius: 15
+    approachRadius: 12
+    malfunctionMax: 0.1
+    flockingPower: 1
+    driveSpeed: 60.87
+    flockTimer: 2
+    evasionPower: 2.36
+    steeringPower: 54.81
+    Nrange: 1.5
+    mass: 0.1
+    planetUpdateTimer: 2
+    weights: 040000000a00000001000000
+    smoothTimer: 0.2
+    smoothAmount: 20
+    maxSpeed: 8.01
+    defaultRotateSpeed: 0.5
+  rocketSpreadAngle: 32.61
+  rocketLife: 45
+  rocketRotateSpeed: 3
+  rocketMaxSpeed: 14.7
+  rocketMalfunctionMax: 5
+  RocketMalfunctionRate: 673
+  RocketMaxHealth: 50
+  bossStats:
+    MaxHealth: 5000
+    turretBulletDamage: 3.94
+    TurretCount: 6
+    AttackRadius: 20.6
+    approachRadius: 15
+    moveSpeed: 6
+    mainLaserDamage: 3
+    turretLaserDamage: 2
+    laserRotateSpeed: 0.19
+    turretBulletFireRotateSpeed: 17.02
+    turretBulletFireTime: 20.84
+    laserFireTime: 9.52
+    turretBulletFireCooldown: 3.6
+    LaserCoolDown: 9.35
+  bulletSpreadPhaseZero: 0.5
+  bulletFireTimePhaseZero: 10
+  bulletCoolDownPhaseZero: 0.2
+  laserfireTimePhaseZero: 10
+  bulletSpreadPhaseOne: 0.2
+  bulletFireTimePhaseOne: 15
+  bulletCoolDownPhaseOne: 0.2
+  laserfireTimePhaseOne: 15
+  laserTrackSpeed: 50.12
+  turretMaxAngleWave: 10
+  turretRotateSpeedWave: 17
