@@ -13,5 +13,5 @@ college project demo
 
 
 ### Screenshots
-![](ScreenShots/s1 (1).png)
+![ScreenShot](s1 (1).png)
 
